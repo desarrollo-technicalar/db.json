@@ -1,0 +1,38 @@
+{
+    "cursos" : 
+    [
+        {
+          "id": 1,
+          "title": "React desde cero",
+          "imagen": "https://edteam-media.s3.amazonaws.com/courses/original/8b7ef439-b9bc-485f-9608-d82d0d1a7a2b.png",
+          "alt": "Curso React desde 0",
+          "precio": 20,
+          "descripcion": "El mejor curso de React de toda la internet"
+        },
+        {
+          "id": 2,
+          "title": "Curso Teletrabajo",
+          "imagen": "https://edteam-media.s3.amazonaws.com/courses/original/8ab1c233-9f8d-4f75-b0a8-5bd57a528aa0.png",
+          "alt": "Curso React desde 0",
+          "precio": 20,
+          "descripcion": "El mejor curso de React de toda la internet"
+        },
+        {
+          "id": 3,
+          "title": "Curso Go",
+          "imagen": "https://edteam-media.s3.amazonaws.com/courses/original/91e149d0-961a-4594-a8ff-0a625be9cdd2.png",
+          "alt": "Curso del lenguaje Go",
+          "precio": 50,
+          "descripcion": "Curso de programación del lenguaje Go"
+        },
+        {
+          "id": 4,
+          "title": "Curso HTML",
+          "imagen": "https://edteam-media.s3.amazonaws.com/courses/original/f1fa315c-d94a-4fba-b408-cc852a2f4e41.jpg",
+          "alt": "Curso HTML",
+          "precio": 10,
+          "descripcion": "Curso del lenguaje de HTML nivel inicial"
+        }
+      ]
+}
+
